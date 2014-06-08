@@ -1,0 +1,7 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+// Load out configure
+DefaultMagazines = ["ItemBandage","ItemBandage","ItemPainkiller","17Rnd_9x19_glock17","17Rnd_9x19_glock17"];
+DefaultWeapons = ["ItemMap","ItemMachete","glock17_EP1"];
+DefaultBackpack = "DZ_Patrol_Pack_EP1";
+DefaultBackpackWeapon = "";
+///////////////////////////////////////////////////////////////////////////////////////////
